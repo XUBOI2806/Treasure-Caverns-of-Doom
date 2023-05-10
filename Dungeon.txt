@@ -1,0 +1,183 @@
+NES
+1
+2
+19
+Entrance
+ As you enter the entrance of the dungeon, the climate starts to 
+ drop and there is a slight breeze sucking you to enter into the
+ darkness.
+
+ESW
+4
+0
+7
+Cave
+ An ordinary cave with some droplets of water dropping from the
+ roof, creating puddles of water on the floor and an echo 
+ throughout the cave. 
+
+ESW
+10
+14
+0
+Jail
+ A jail that was abondondaned, full of dead corpses with hands
+ full of treasure within the cells.
+
+NSW
+9
+10
+4
+Sewer
+ The smell of the sewer fills your nose, making you naseous and 
+ giving you a headache. The water, murky and polluted, flows 
+ slowly.
+
+NEW
+5
+3
+1
+Bat Cave
+ As you enter the cave, the sounds of screeches echo through the
+ cave. You try run away in fear but you trip, escaping the hoarde
+ of bats as they fly over you.
+
+NSW
+9
+4
+8
+Graveyard
+ A sudden mist blurs your vision as you enter the cave. 
+ Tombstones fill the area, knowing that if you had a shovel,
+ the corpses beneath would be littered with gems and gold.
+
+ESW
+9
+8
+12
+Bone Throne
+ As you enter through the door, a throne made out of bones
+ stands in the middle of the empty room. 
+
+NES
+8
+1
+12
+Ice Cave
+ As you approach the next cave, a sudden chilly breeze hits
+ your face, making you shiver. As you enter the room, the beauty
+ of the cave made of ice puts you in awe,forgetting the coldness
+ that you are experiencing.
+
+NEW
+6
+5
+7
+Hallway of Trees
+ A hallway filled with trees relieve you of your lungs as you 
+ breathe in the fresh air.The air is so pure that you start to
+ feel drowsy enough to take a nap.
+
+ESW
+3
+5
+6
+Magical Tree
+ A tree that is flooded by fireflies stands alone in the middle
+ of the room. You begin to approach the tree in mesmerisation.
+
+NSW
+3
+11
+2
+Statue room
+ The daunting room of statues strikes fear in your heart. The
+ statues glare at you, as if they are staring right through
+ your soul.
+
+NSW
+10
+13
+14
+Blacksmith
+ As you enter the room, the room is full of equipment,
+ weaponary and armour. In the middle of room stands a giant
+ furnace with an anvil next to it.
+
+NSW
+7
+16
+6
+Old study room
+ Shelves of books fill the room, creating a maze to get around
+ the room. These books must hold a lot of knowledge and wisdom.
+
+NSW
+11
+15
+14
+Armoury
+ Rusty old armour plates scattered across the floor. Sadly,
+ you aren't able use any of them as they are either too big or
+ too small for you to wear.
+
+NES
+2
+11
+13
+Weaponary
+ Chipped swords and broken bows are placed in boxes, probably
+ being escorted to get fixed.
+
+ESW
+13
+17
+18
+Hall of dead
+ The long hall, full of corpses makes you vomit from the smell
+ that hovers in the room. 
+
+NES
+12
+19
+17
+The Kings bedroom
+ A bedroom fit for a king. Sadly it was in a poor state that
+ even a peasant would not even live here.
+
+NES
+16
+18
+15
+Treasure room
+ An explosion of gold and gems storm out the door as you open
+ the door. You become blinded to the amount of glistening that
+ the treasure holds in the room.
+
+NSW
+19
+15
+17
+Lava cave
+ As you head deeper in the cave, the temperature of the cave
+ increases. You start sweating hard as the amount lava that
+ flows increases.
+
+NSW
+0
+18
+16
+Lava Den
+ The Lava Den. The dragon is known to live here in this hot
+ climate. It guards the artefact that you will need to obtain. 
+ The artefact is stored within the dragon's stomach so the 
+ only way to obtain it is by slaying the dragon. May you be 
+ blessed with luck and fortune as you battle the dragon.
+
+
+
+
+
+
+
+ 
